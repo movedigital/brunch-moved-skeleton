@@ -2,6 +2,22 @@
 
 Brunch With ChaplinJS Skeleton
 
+## Instalation
+
+Clone this repo manually with git or use ```brunch new gh:movedigital/brunch-moved-skeleton```
+
+## Getting Started
+
+* Install (if you don't have them):
+  * Node.js: ```brew install node``` on OS X
+  * Brunch: ```npm install -g brunch```
+  * Bower: ```npm install -g bower```
+  * Brunch plugins and Bower dependencies: ```npm install & bower install```
+
+* Run:
+  * ```brunch watch``` — watches the project with continuous rebuild
+  * ```brunch build --production``` — builds minified project for production
+
 ## This Skeleton Includes:
 
 **Brunch Plugins:**
