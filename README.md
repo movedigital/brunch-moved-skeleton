@@ -2,7 +2,7 @@
 
 Brunch With ChaplinJS Skeleton
 
-## Instalation
+## Installation
 
 Clone this repo manually with git or use ```brunch new gh:movedigital/brunch-moved-skeleton```
 
