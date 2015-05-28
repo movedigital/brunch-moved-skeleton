@@ -34,7 +34,7 @@ Clone this repo manually with git or use ```brunch new gh:movedigital/brunch-mov
 "uglify-js-brunch": ">= 1.0 < 1.8"
 ```
 
-**Bower Components:**
+**Bower Dependencies:**
 
 ```
 "foundation": "~5.5.2"
