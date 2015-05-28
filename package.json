@@ -1,0 +1,26 @@
+{
+  "name": "moved-skeleton",
+  "description": "Skeleton",
+  "author": "Move Digital",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "scripts": {
+    "start": "brunch watch",
+    "test": "brunch test"
+  },
+  "dependencies": {
+    "browser-sync-brunch": "0.0.9",
+    "clean-css-brunch": ">= 1.0 < 1.8",
+    "coffeelint-brunch": "^1.7.0",
+    "css-brunch": ">= 1.0 < 1.8",
+    "iced-coffee-script-brunch": "^1.7.0",
+    "jade-brunch": "^1.8.1",
+    "javascript-brunch": ">= 1.0 < 1.8",
+    "sass-brunch": "^1.8.10",
+    "uglify-js-brunch": ">= 1.0 < 1.8"
+  },
+  "devDependencies": {}
+}

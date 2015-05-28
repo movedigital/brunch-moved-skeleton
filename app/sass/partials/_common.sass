@@ -1,0 +1,42 @@
+body
+  height: 100%
+  line-height: 1
+  -webkit-font-smoothing: subpixel-antialiased
+
+.main-container
+  min-height: 100%
+  position: relative
+  overflow: hidden
+
+.icon
+  display: inline-block
+  width: 100%
+  height: 100%
+  fill: currentColor
+
+.clear
+  clear: both
+
+.container
+  position: relative
+  margin: 0 auto
+  padding: 0 18px
+  @media #{$large-up}
+    max-width: 940px
+    padding: 0
+
+.table
+  display: table
+  width: 100%
+  height: 100%
+
+.table-cell
+  display: table-cell
+  vertical-align: middle
+
+// Hide for touch Display: inline
+.hide-for-touch-inline, .touch .show-for-touch-inline
+  display: inline !important
+
+.show-for-touch-inline, .touch .hide-for-touch-inline
+  display: none !important
