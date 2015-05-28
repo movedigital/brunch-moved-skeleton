@@ -13,6 +13,9 @@
       "dependencies": {
         "exoskeleton": "*"
       }
+    },
+    "modernizr": {
+      "main": "modernizr.js"
     }
   }
 }
