@@ -1,0 +1,11 @@
+/* ------------------------------------------
+ * backgrounds
+ * ------------------------------------------/
+ 
+@mixin backgrounds($name, $extension)
+  @media #{$small-only}
+    background-image: image-url("#{$name}-small.#{$extension}")
+  @media #{$medium-only}
+    background-image: image-url("#{$name}-medium.#{$extension}")
+  @media #{$large-up}
+    background-image: image-url("#{$name}-large.#{$extension}")
