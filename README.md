@@ -38,8 +38,6 @@ Clone this repo manually with git or use ```brunch new gh:movedigital/brunch-mov
 
 ```
 "foundation": "~5.5.2"
-"exoskeleton": "~0.7.0"
-"lodash": "~3.9.3"
 "chaplin": "~1.0.1"
 ```
 
